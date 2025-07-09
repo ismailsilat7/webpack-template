@@ -40,3 +40,5 @@ webpack-template/
 ├── webpack.prod.js
 ├── package.json
 └── README.md
+
+> New to this template? See [FIRST_STEPS.md](./FIRST_STEPS.md)
