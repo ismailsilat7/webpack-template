@@ -31,7 +31,6 @@ webpack-template/
 ├── dist/              # Production output (generated)
 ├── src/
 │   ├── assets/
-│   │   ├── fonts/
 │   │   └── images/
 │   ├── index.js       # Entry point
 │   ├── style.css      # Global styles
